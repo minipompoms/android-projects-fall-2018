@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Maze App</string>
+    <string name="maze_generator_text">Maze Generator</string>
+    <string name="number_rows_text">rows</string>
+    <string name="number_columns_text">cols</string>
+    <string name="tv_rows_text">Enter the number of</string>
+    <string name="tv_number_cols">Enter the number of</string>
+    <string name="enter_button_text">GO</string>
 </resources>
